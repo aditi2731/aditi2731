@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@aditisingh.acaa](https://medium.com/@aditisingh.acaa)
 
-- 📫 How to reach me **aditisingh.acaa@gmail.com**
+- 📫 How to reach me **aditisingh.acaa@gmail.com** +91-6386522390
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
