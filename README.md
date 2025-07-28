@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditi Singh</h1>
+<h1 align="center">Hi 🙋‍♀️, I'm Aditi Singh</h1>
 <h3 align="center">Recent graduate who loves to learn about Cloud Computing,Machine Learning and Generative AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditi2731&label=Profile%20views&color=0e75b6&style=flat" alt="aditi2731" /> </p>
@@ -7,11 +7,11 @@
 
 - 📝 I regularly write articles on [https://medium.com/@aditisingh.acaa](https://medium.com/@aditisingh.acaa)
 
-- 💬 Ask me about **AWS, AI Agents, Langhchain**
+- 💬 Ask me about **AWS, AI Agents, Langhchain, RAG**
 
 - 📫 How to reach me **aditisingh.acaa@gmail.com**
 
-### Blogs posts
+### 📔 Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Command Line Interface AI Agent: New Features &lpar;Part-2&rpar;](https://medium.com/@aditisingh.acaa/command-line-interface-ai-agent-new-features-part-2-877ad061818e?source=rss-035f0a38de85------2)
 - [Developing an Intelligent Phishing Detection System with Machine Learning](https://medium.com/@aditisingh.acaa/developing-an-intelligent-phishing-detection-system-with-machine-learning-5997840b4f93?source=rss-035f0a38de85------2)
@@ -20,7 +20,7 @@
 - [Baby Name App &lpar;AWS PartyRock&rpar;](https://medium.com/@aditisingh.acaa/baby-name-app-aws-partyrock-2b95c5171059?source=rss-035f0a38de85------2)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aditi-singh-98bb83288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditi-singh-98bb83288" height="30" width="40" /></a>
 <a href="https://kaggle.com/aditi13564837" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aditi13564837" height="30" width="40" /></a>
