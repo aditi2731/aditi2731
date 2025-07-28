@@ -13,6 +13,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Command Line Interface AI Agent: New Features &lpar;Part-2&rpar;](https://medium.com/@aditisingh.acaa/command-line-interface-ai-agent-new-features-part-2-877ad061818e?source=rss-035f0a38de85------2)
+- [Developing an Intelligent Phishing Detection System with Machine Learning](https://medium.com/@aditisingh.acaa/developing-an-intelligent-phishing-detection-system-with-machine-learning-5997840b4f93?source=rss-035f0a38de85------2)
+- [Command Line Interface AI Agent: How AI Can Transform Command Line Error Handling](https://medium.com/@aditisingh.acaa/command-line-interface-ai-agent-how-ai-can-transform-command-line-error-handling-48d0d15bda7e?source=rss-035f0a38de85------2)
+- [Passed My First Oracle Certification](https://medium.com/@aditisingh.acaa/passed-my-first-oracle-certification-5ce1927f58fc?source=rss-035f0a38de85------2)
+- [Baby Name App &lpar;AWS PartyRock&rpar;](https://medium.com/@aditisingh.acaa/baby-name-app-aws-partyrock-2b95c5171059?source=rss-035f0a38de85------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
