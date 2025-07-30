@@ -16,4 +16,4 @@ jobs:
       - name: Pull in Medium articles
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://medium.com/feed/@aditisingh.acaa"
+          feed_list: "https://medium.com/@aditisingh.acaa"
