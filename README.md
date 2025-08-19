@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🙋‍♀️, I'm Aditi Singh</h1>
-<h3 align="center">Recent graduate who loves to learn about Cloud Computing,Machine Learning and Generative AI</h3>
+<h3 align="center">Recent graduate who loves to learn about Cloud Computing, Machine Learning and Generative AI</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditi2731&label=Profile%20views&color=0e75b6&style=flat" alt="aditi2731" /> </p>
 
